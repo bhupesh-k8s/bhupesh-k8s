@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhupesh Patil </h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/bhupesh-k8s/" target="_blank" rel="noreferrer">Bhupesh</a> is a Passionate DevOps Engineer From India, Working On Cloud And DevOps. Feel Free To Reach Out For Any Freelance Projects. </font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/bhupesh-k8s/" target="_blank" rel="noreferrer">Bhupesh</a> is a Passionate Cloud & DevOps Engineer From India, Working On Cloud And DevOps. Feel Free To Reach Out For Any Freelance Projects. </font></h3>
 
 <h3 align="left">About me</h3>
 
@@ -8,7 +8,7 @@
 
 <b> My strong skills are :
 
-- Os (Linux Administrator)
+- OS (Linux Administrator)
 
 - Version Control (Git)
 
@@ -16,7 +16,7 @@
 
 - CI/CD Automation (Gitlab , Jenkins)
 
-- Docker & Kubernetes
+- Containerization & Orchestration (Docker & Kubernetes)
 
 	- Advance Deployement (Helm)
 
