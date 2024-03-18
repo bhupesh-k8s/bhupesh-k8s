@@ -17,22 +17,19 @@
 - CI/CD Automation (Gitlab , Jenkins)
 
 - Containerization & Orchestration (Docker & Kubernetes)
-
-	- Application Deployement (Helm)
- 	- Microservices Networking (Istio Service Mesh)
- 
+-  
 - Infrastructure As Code (Terraform)
   
 - Programming Languege (Go)
 
 - Monitoring (Prometheus)
      
-- GitOps (Flux CD)
-
 - Advance Learning :
   
   	- Application Deployement (Helm)
- 	- Microservices Networking (Istio Service Mesh) </b>
+ 	- Microservices Networking (Istio Service Mesh)
+        
+- GitOps (Flux CD) </b>
 <br> </br>
 
 <h2> <b> I'm currently mainly focused on areas of #Docker & #Kubernetes. </b> </h2>
