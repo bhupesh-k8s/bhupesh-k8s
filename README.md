@@ -17,7 +17,7 @@
 - CI/CD Automation (Gitlab , Jenkins)
 
 - Containerization & Orchestration (Docker & Kubernetes)
--  
+  
 - Infrastructure As Code (Terraform)
   
 - Programming Languege (Go)
