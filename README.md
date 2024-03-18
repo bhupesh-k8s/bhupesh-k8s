@@ -65,7 +65,7 @@
 <a href="https://terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> 
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
 <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
-<a href="https://istio.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg " alt="istio" width="40" height="40"/>
+<a href="https://istio.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio" width="40" height="40"/>
 <a href="https://fluxcd.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg" alt="fluxcd" width="40" height="40"/>
 </a>
 
