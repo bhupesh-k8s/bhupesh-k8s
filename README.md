@@ -19,17 +19,8 @@
 - Containerization & Orchestration (Docker & Kubernetes)
   
 - Infrastructure As Code (Terraform)
-  
-- Programming Languege (Go)
 
-- Monitoring (Prometheus)
-     
-- Advance Learning :
-  
-  	- Application Deployement (Helm)
- 	- Microservices Networking (Istio Service Mesh)
-        
-- GitOps (Flux CD) </b>
+- Programming Languege (Go) </b>
 <br> </br>
 
 <h2> <b> I'm currently mainly focused on areas of #Docker & #Kubernetes. </b> </h2>
@@ -62,11 +53,7 @@
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> 
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
-<a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
-<a href="https://istio.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio" width="40" height="40"/>
-<a href="https://fluxcd.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg" alt="fluxcd" width="40" height="40"/>
+<a href="https://terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/>
 </a>
 
 <h3 align="left">Certifications</h3>
